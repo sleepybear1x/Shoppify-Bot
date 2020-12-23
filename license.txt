@@ -2,4 +2,4 @@ Redistrubution and personal use of this software is NOT ALLOWED!!!!
 This project is public however because we want commuinity feedback and interaction. 
 In order to score rights to the code, you must create 5 merged pull requests. 
 By doing this, you show your dedication to the software, and that you are willing to help with the development, 
-and we are happy to grant access to anyone who is so kind. 
+and we are happy to grant access to anyone who is so kind.
